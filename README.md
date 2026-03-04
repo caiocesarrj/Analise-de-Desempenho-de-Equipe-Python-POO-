@@ -18,6 +18,6 @@ sorted(), max() e min(),
 enumerate() para geração de ranking.
 
 - Objetivo do projeto:
+Aprimorar a base em lógica de programação, organização de código e modelagem de dados utilizando POO, simulando um cenário próximo à análise de desempenho real.
 
-Aprimorar a base em lógica de programação, organização de código e modelagem de dados utilizando POO, simulando um cenário próximo à análise de desempenho real.  
 Projeto desenvolvido para fins de estudo.
